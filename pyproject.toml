@@ -1,6 +1,6 @@
 [project]
 name = "wan"
-version = "0.1.1"
+version = "0.1.2"
 description = "Wan Dify-parity tools through Ace Data Cloud for ComfyUI"
 license = { file = "LICENSE" }
 requires-python = ">=3.10"
@@ -14,5 +14,5 @@ Documentation = "https://github.com/AceDataCloud/WanComfyUI#readme"
 
 [tool.comfy]
 PublisherId = "acedatacloud"
-DisplayName = "Wan by Ace Data Cloud"
+DisplayName = "Wan"
 Icon = "https://raw.githubusercontent.com/AceDataCloud/WanComfyUI/main/assets/logo-400.png"
